@@ -189,7 +189,7 @@ LensInfo : Information of the lens present in the module.
       <FocalLength>4.07</FocalLength>
       <FNumber>1.75</FNumber>
       <TotalFocusDistance>3.78</TotalFocusDistance>
-      <HorizontalViewAngle>60.4</HorizontalViewAngle>
+      <HorizontalViewAngle>62.9</HorizontalViewAngle>
       <VerticalViewAngle>48.7</VerticalViewAngle>
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
@@ -215,7 +215,7 @@ LensInfo : Information of the lens present in the module.
       <FocalLength>4.07</FocalLength>
       <FNumber>1.75</FNumber>
       <TotalFocusDistance>3.78</TotalFocusDistance>
-      <HorizontalViewAngle>60.4</HorizontalViewAngle>
+      <HorizontalViewAngle>62.9</HorizontalViewAngle>
       <VerticalViewAngle>48.7</VerticalViewAngle>
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
@@ -241,7 +241,7 @@ LensInfo : Information of the lens present in the module.
       <FocalLength>4.07</FocalLength>
       <FNumber>1.75</FNumber>
       <TotalFocusDistance>4.0</TotalFocusDistance>
-      <HorizontalViewAngle>60.4</HorizontalViewAngle>
+      <HorizontalViewAngle>62.9</HorizontalViewAngle>
       <VerticalViewAngle>48.7</VerticalViewAngle>
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
@@ -266,7 +266,7 @@ LensInfo : Information of the lens present in the module.
       <FocalLength>3.86</FocalLength>
       <FNumber>2.2</FNumber>
       <TotalFocusDistance>3.5</TotalFocusDistance>
-      <HorizontalViewAngle>66.1</HorizontalViewAngle>
+      <HorizontalViewAngle>65.3</HorizontalViewAngle>
       <VerticalViewAngle>52.1</VerticalViewAngle>
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
@@ -291,7 +291,7 @@ LensInfo : Information of the lens present in the module.
       <FocalLength>3.82</FocalLength>
       <FNumber>2.2</FNumber>
       <TotalFocusDistance>3.5</TotalFocusDistance>
-      <HorizontalViewAngle>66.1</HorizontalViewAngle>
+      <HorizontalViewAngle>65</HorizontalViewAngle>
       <VerticalViewAngle>52.1</VerticalViewAngle>
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
